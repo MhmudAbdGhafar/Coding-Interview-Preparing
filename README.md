@@ -1,4 +1,4 @@
-# Coding Interview Preparing
+# Coding Interview Preparing mnmn
 This is a guide to craking coding interviews in big Companies
 ![img](img.jpg)
 
